@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+
+    body.login-body {
+        background: url("./assets/img/laback.jpg");
+        background-size: cover;
+        height: auto;
+        background-repeat:no-repeat;
+    }
